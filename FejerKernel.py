@@ -16,4 +16,4 @@ def plotFejerUpTo(N):
         plt.plot(x, y)
     plt.show()
 
-plotFejerUpTo(11)
+plotFejerUpTo(15)
